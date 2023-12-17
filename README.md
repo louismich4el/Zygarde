@@ -1,1 +1,3 @@
-Zygarde is a script created by a script showcaser called ItsLouisPlayz (plz subscribe)
+Owner of Zygarde - ItsLouisPlayz AKA 1ml3g1t
+
+Dev - Pawsthepaw
