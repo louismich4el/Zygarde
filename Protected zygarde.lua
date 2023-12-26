@@ -1,6 +1,6 @@
 --// Zygarde
 --// Version: 1
---// Owner: Louis
+--// Owner: ItsLouisPlayz AKA 1ml3g1t
 --// Developers: Paws
 --// Average Update Per Week: 1
 --// Obfuscated: Yes
