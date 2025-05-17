@@ -1,0 +1,41 @@
+{
+  "versions": [
+    {
+      "id": "V3.7.9",
+      "date": "April 5, 2025",
+      "logs": [
+        {
+          "title": "Main Systen Changes:",
+          "items": [
+            "Removed Experimental Github Update Detection System.",
+            "Stablize the game loader ui bugging sometimes and sometimes showing, fixed.",
+            "Decreased optimization level due to bugs."
+          ]
+        },
+        {
+          "title": "Blade Ball Changes:",
+          "items": [
+            "Due to unclear stuff I changed the description abit and fixed ui vanishing when respawning.",
+            "Automation of detecting whenever the use of lite or normal."
+          ]
+        }
+      ],
+      "notes": "Where click sound? idk what yall talking abt blade ball being laggy, works fine for me."
+    },
+    
+    {
+      "id": "V3.7.8",
+      "date": "April 2, 2025",
+      "logs": [
+        {
+          "title": "Main Systen Changes:",
+          "items": [
+            "Added an Experimental Github Update Detection System. (Checks every 3 minutes)",
+            "Added Revert Version Feature. this reverts to the last update of Plutonium, this may be used if your having issues with the present."
+          ]
+        }
+      ],
+      "notes": "Thanks, April fools event shall continue to haunt you, it'll be back in 2026 dw, when must the rewrite wave happen though.. Click sounds will be added soon."
+    }
+  ]
+}
