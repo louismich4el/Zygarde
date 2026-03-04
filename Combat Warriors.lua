@@ -1,6 +1,3 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/dd2defcd0550d16d441f791ebd6dfbfa.lua"))()
-
-if string.find(identifyexecutor():lower(), "xeno") then
-  game.Players.LocalPlayer:kick("Combat Warriors Zygarde isnt supported on Xeno, Please use another executor and make sure to Join our discord server for more info!\n(Invite link copied)")
-end
+setclipboard("https://discord.gg/zygarde-new-era-1226331987661422646")
+game.Players.LocalPlayer:kick("Combat Warriors is currently detected and we are working on it!, please Join our discord server for more info on when it'll be fixed. \n(Invite link copied)")
 
