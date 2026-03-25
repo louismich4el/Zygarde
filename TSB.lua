@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/720ca401a8b75224254b35e0df05649e.lua"))()
+setclipboard("https://discord.gg/zygarde-new-era-1226331987661422646")
+game.Players.LocalPlayer:kick("Zygarde Has An New Loadstring Please Join Our Server! \n(Invite link copied)")
+
